@@ -1,6 +1,14 @@
-### Hi there 👋
+<h2>Hi 👋</h2>
 
-- :computer: I’m currently learning HTML & CSS
+I'm Dwi Duta Mahardewantoro!
+- <i>Currently:</i> Informatics Student at University of Muhammadiyah Jakarta
+
+<h2>:computer: I’m currently learning</h2>
+
+__University of Muhammadiyah Jakarta
+- C
+- C++
+- HTML & CSS
 
 <!--
 **dutaaamahar/dutaaamahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
