@@ -5,7 +5,7 @@ I'm Dwi Duta Mahardewantoro!
 
 <h2>:computer: I’m currently learning</h2>
 
-__University of Muhammadiyah Jakarta
+__University of Muhammadiyah Jakarta__
 - C
 - C++
 - HTML & CSS
