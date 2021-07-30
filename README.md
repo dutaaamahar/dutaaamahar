@@ -10,6 +10,7 @@ __University of Muhammadiyah Jakarta__
 - C++
 - HTML & CSS
 - JavaScript
+- Python
 
 <!--
 **dutaaamahar/dutaaamahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
