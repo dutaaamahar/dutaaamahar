@@ -11,6 +11,8 @@ __University of Muhammadiyah Jakarta__
 - HTML & CSS
 - JavaScript
 - Python
+- PHP
+- React.js
 
 <!--
 **dutaaamahar/dutaaamahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
