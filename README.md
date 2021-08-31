@@ -17,6 +17,7 @@ __University of Muhammadiyah Jakarta__
 <h2>I'm also interested</h2>
 - Full Stack Developer
 - Front-End Developer
+- Back-End Developer
 
 <!--
 **dutaaamahar/dutaaamahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
