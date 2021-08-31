@@ -15,6 +15,7 @@ __University of Muhammadiyah Jakarta__
 - React.js
 
 <h2>I'm also interested</h2>
+
 - Full Stack Developer
 - Front-End Developer
 - Back-End Developer
