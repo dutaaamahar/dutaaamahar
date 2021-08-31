@@ -14,7 +14,7 @@ __University of Muhammadiyah Jakarta__
 - PHP
 - React.js
 
-<h2>I'm also interested</h2>
+<h2>:chart_with_upwards_trend: I'm also interested</h2>
 
 - Full Stack Developer
 - Front-End Developer
