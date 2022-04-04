@@ -18,6 +18,9 @@ I'm Dwi Duta Mahardewantoro!
 
 - Data Analyst
 
+<h2>📫 How to reach me:</h2>
+- Email : notdwidutam@gmail.com
+
 <!--
 **dutaaamahar/dutaaamahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
