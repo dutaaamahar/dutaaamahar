@@ -1,6 +1,7 @@
 <h2>Hi 👋</h2>
 
-I'm Dwi Duta Mahardewantoro!
+I'm Dwi Duta Mahardewantoro!. I'm a student currently looking for an internship. I also really like to learn new things.
+
 - <i>Currently:</i> Informatics Student at University of Muhammadiyah Jakarta
 
 <h2>:computer: I’m currently learning</h2>
