@@ -8,17 +8,12 @@ I'm Dwi Duta Mahardewantoro!
 __University of Muhammadiyah Jakarta__
 - C
 - C++
-- HTML & CSS
-- JavaScript
+- Java
 - Python
-- PHP
-- React.js
 
 <h2>:chart_with_upwards_trend: I'm also interested</h2>
 
-- Full Stack Developer
-- Front-End Developer
-- Back-End Developer
+- Data Analyst
 
 <!--
 **dutaaamahar/dutaaamahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
