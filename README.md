@@ -5,7 +5,10 @@ I'm Dwi Duta Mahardewantoro!
 
 <h2>:computer: I’m currently learning</h2>
 
-__University of Muhammadiyah Jakarta__
+- Machine Learning
+- Data Analyst
+
+<h2> Skills
 - C
 - C++
 - Java
