@@ -9,6 +9,7 @@ I'm Dwi Duta Mahardewantoro!
 - Data Analyst
 
 <h2> Skills</h2>
+
 - C
 - C++
 - Java
@@ -19,6 +20,7 @@ I'm Dwi Duta Mahardewantoro!
 - Data Analyst
 
 <h2>📫 How to reach me:</h2>
+
 - Email : notdwidutam@gmail.com
 
 <!--
