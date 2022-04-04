@@ -14,6 +14,7 @@ I'm Dwi Duta Mahardewantoro!. I'm a student currently looking for an internship.
 - C
 - C++
 - Java
+- SQL
 - Python
 
 <h2>:chart_with_upwards_trend: I'm also interested</h2>
