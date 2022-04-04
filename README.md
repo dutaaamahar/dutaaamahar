@@ -8,7 +8,7 @@ I'm Dwi Duta Mahardewantoro!
 - Machine Learning
 - Data Analyst
 
-<h2> Skills
+<h2> Skills</h2>
 - C
 - C++
 - Java
