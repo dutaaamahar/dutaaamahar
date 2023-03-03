@@ -1,16 +1,16 @@
-### Hi there 👋
+Hello, I am Dwi Duta Mahardewatoro. I am a student majoring in Informatics Engineering at Muhammadiyah University Jakarta. I am currently undergoing an Independent Study program from the Merdeka Campus as a Machine Learning Student at Bangkit Academy 2023 led by Google, Tokopedia, Gojek, & Traveloka for the next 6 months.
 
-<!--
-**dutaaamahar/dutaaamahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :man_technologist: Interests :
 
-Here are some ideas to get you started:
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :man_mechanic: Skills :
+
+- Python
+- SQL
+
+## :mag: Contacts :
+<p>
+<a href="https://www.linkedin.com/in/dwidutam/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:dwiduta.mahardewantoro@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p/>
