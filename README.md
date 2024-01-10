@@ -1,8 +1,10 @@
-Hello, I am Dwi Duta Mahardewatoro. I am a student majoring in Informatics Engineering at Muhammadiyah University Jakarta. I am currently undergoing an Independent Study program from the Merdeka Campus as a Machine Learning Student at Bangkit Academy 2023 led by Google, Tokopedia, Gojek, & Traveloka for the next 6 months.
+Hello, I am Dwi Duta Mahardewatoro. I am a 7th-semester student majoring in Informatics Engineering at Muhammadiyah University Jakarta. I have developed programming skills through my degree and Bangkit Academy, and I complement these skills through my competency in multiple programming languages. I am a Data and Artificial Intelligence Enthusiast. Currently, I am now looking Internship to further develop and use my skills in a year in industry placement, specifically in Data or Artificial Intelligence infrastructure.
 
 ## :man_technologist: Interests :
 
 - Data Science
+- Data Analyst
+- Artificial Intelligence
 
 ## :man_mechanic: Skills :
 
