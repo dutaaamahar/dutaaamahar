@@ -3,8 +3,9 @@ Hello, I am Dwi Duta Mahardewatoro. I am a 8th-semester student majoring in Info
 ## :man_technologist: Interests :
 
 - Data Science
+- Data Engineer
 - Data Analyst
-- Artificial Intelligence
+- Machine Learning Engineer
 
 ## :man_mechanic: Skills :
 
@@ -16,3 +17,11 @@ Hello, I am Dwi Duta Mahardewatoro. I am a 8th-semester student majoring in Info
 <a href="https://www.linkedin.com/in/dwidutam/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:dwiduta.mahardewantoro@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <p/>
+
+## 🏅 Badge List :
+
+<br>
+
+| Badge | Name |
+| :-: | :-: |
+| ![image](https://www.codewars.com/users/dutaaamahar/badges/micro) | Codewars |
