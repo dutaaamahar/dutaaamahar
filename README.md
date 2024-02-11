@@ -22,7 +22,7 @@ Hello, I'm Dwi Duta Mahardewatoro. I am a final year student majoring in Informa
 ## 🏅 Badge :
 | Badge | Name | Profile |
 | :-: | :-: | :-: |
-| ![image](https://www.codewars.com/users/dutaaamahar/badges/micro) | Codewars | [Click Here!](https://www.codewars.com/users/dutaaamahar) |
+| ![image](https://www.codewars.com/users/dutaaamahar/badges/small) | Codewars | [Click Here!](https://www.codewars.com/users/dutaaamahar) |
 
 ## 🏆 Achievement :
 | Name | Issue Date | Expiration Date | Url |
