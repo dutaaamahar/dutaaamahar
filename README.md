@@ -1,4 +1,4 @@
-Hello, I'm Dwi Duta Mahardewatoro. I am a final year student majoring in Informatics Engineering at Muhammadiyah University, Jakarta. I have developed programming skills through my degree, Bangkit Academy, and my internship experiences. I am a certified TensorFlow Developer and also a Data and Artificial Intelligence Enthusiast. Currently, I am looking for an Internship to further develop and utilize my skills within a year in an industrial placement, specifically in the area of ​​Data or Artificial Intelligence.
+Hello, I'm Dwi Duta Mahardewatoro. I am a final year student majoring in Informatics Engineering at Muhammadiyah University, Jakarta. I have developed programming skills through my degree, Binar Academy, Bangkit Academy, and my internship experiences. I am a certified TensorFlow Developer and also a Data and Artificial Intelligence Enthusiast. Currently, I am looking for an Internship to further develop and utilize my skills within a year in an industrial placement, specifically in the area of ​​Data or Artificial Intelligence.
 
 ## :man_technologist: Interests :
 
